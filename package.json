@@ -1,0 +1,24 @@
+{
+  "name": "nodeplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realalexhomer/nodeplayground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realalexhomer/nodeplayground/issues"
+  },
+  "homepage": "https://github.com/realalexhomer/nodeplayground#readme",
+  "dependencies": {
+    "aws-sdk": "^2.566.0",
+    "dotenv": "^8.2.0",
+    "uuid": "^3.3.3"
+  }
+}
